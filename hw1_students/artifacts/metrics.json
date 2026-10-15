@@ -83,7 +83,7 @@
         "params": 269722,
         "train_acc": 0.8536999821662903,
         "test_acc": 0.7868000268936157,
-        "minutes": 1.3501623319500746,
+        "minutes": 1.3817788694325523,
         "history": {
           "train_loss": [
             1.65335921875,
@@ -115,7 +115,7 @@
         "params": 853018,
         "train_acc": 0.5449000000953674,
         "test_acc": 0.5145000219345093,
-        "minutes": 3.836362231251163,
+        "minutes": 3.908125910417099,
         "history": {
           "train_loss": [
             2.04186234375,
@@ -360,17 +360,17 @@
     }
   },
   "timings": {
-    "cifar_resnet20_seconds": 193.3020275000017,
-    "cifar_plain-20_seconds": 81.00973991700448,
-    "cifar_plain-56_seconds": 230.18173387506977,
-    "fashion_standard_seconds": 3.871270708972588,
-    "fashion_pgd_at_seconds": 64.89767175004818,
-    "bonus_7.1": 32.68369091604836,
-    "bonus_l0_seconds": 3.2658085419097915,
-    "bonus_co_FGSM_seconds": 21.194622333045118,
-    "bonus_co_FGSM-RS_seconds": 20.914357832982205,
-    "bonus_co_sanity_seconds": 6.755864041973837,
-    "notebook_seconds": 708.4039880411001
+    "cifar_resnet20_seconds": 197.29736512503587,
+    "cifar_plain-20_seconds": 82.90673216595314,
+    "cifar_plain-56_seconds": 234.48755462502595,
+    "fashion_standard_seconds": 3.454935249988921,
+    "fashion_pgd_at_seconds": 67.15261529095005,
+    "bonus_7.1": 29.950913417036645,
+    "bonus_l0_seconds": 2.179750708048232,
+    "bonus_co_FGSM_seconds": 25.270675292005762,
+    "bonus_co_FGSM-RS_seconds": 25.322745249955915,
+    "bonus_co_sanity_seconds": 7.3352958330651745,
+    "notebook_seconds": 719.8511257499922
   },
   "bonuses": {
     "selected": [
