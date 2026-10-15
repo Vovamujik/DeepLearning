@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+
+# датасеты скачиваются torchvision при первом запуске
+data/
+
+# рабочие файлы: черновики, логи, бэкапы
+.work/
