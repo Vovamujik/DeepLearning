@@ -11,3 +11,9 @@ data/
 
 # рабочие файлы: черновики, логи, бэкапы
 .work/
+
+hw2_students/data/
+hw2_students/runs_hw2/
+hw2_students/*.pt
+.work/
+.venv/
